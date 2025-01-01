@@ -227,3 +227,4 @@ start
 2025-01-28 19:00:15 - clean up script logic
 2025-01-28 20:59:26 - clean up local state
 2025-01-29 13:41:17 - tweak data handling
+2025-01-01 09:04:30 - fix logging
