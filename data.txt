@@ -2865,3 +2865,4 @@ start
 2025-01-02 13:26:25 - polish script logic
 2025-01-02 13:53:12 - small commit flow changes
 2025-01-02 19:36:57 - tweak logging
+2025-01-05 11:15:38 - fix helper code
