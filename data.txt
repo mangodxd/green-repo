@@ -181,3 +181,4 @@ start
 2025-01-02 18:25:32 - refactor logging
 2025-01-04 14:45:04 - update logging
 2025-01-04 16:20:20 - polish date handling
+2025-01-06 12:48:07 - refactor local state
