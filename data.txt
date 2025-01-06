@@ -236,3 +236,4 @@ start
 2025-01-03 18:42:55 - update date handling
 2025-01-05 17:29:37 - small date handling changes
 2025-01-06 12:19:48 - fix commit flow
+2025-01-06 14:35:59 - tweak data handling
