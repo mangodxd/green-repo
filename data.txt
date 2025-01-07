@@ -2878,3 +2878,4 @@ start
 2025-01-06 18:20:25 - tweak helper code
 2025-01-06 19:53:21 - clean up date handling
 2025-01-07 11:02:53 - update logging
+2025-01-07 11:33:19 - polish logging
