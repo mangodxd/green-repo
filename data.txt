@@ -9,3 +9,4 @@ start
 2025-01-07 15:49:58 - refactor file output
 2025-01-08 10:13:55 - small commit flow changes
 2025-01-08 13:51:00 - refactor local state
+2025-01-08 15:11:21 - clean up script logic
