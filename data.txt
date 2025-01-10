@@ -188,3 +188,4 @@ start
 2025-01-07 10:37:42 - tweak local state
 2025-01-07 10:54:18 - small file output changes
 2025-01-08 10:31:15 - small logging changes
+2025-01-10 09:20:57 - tweak script logic
