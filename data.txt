@@ -190,3 +190,4 @@ start
 2025-01-08 10:31:15 - small logging changes
 2025-01-10 09:20:57 - tweak script logic
 2025-01-10 12:57:49 - clean up local state
+2025-01-11 15:55:44 - clean up script logic
