@@ -17,3 +17,4 @@ start
 2025-01-10 18:51:48 - update helper code
 2025-01-10 19:59:48 - tweak script logic
 2025-01-11 15:29:38 - clean up logging
+2025-01-13 18:54:25 - polish helper code
