@@ -195,3 +195,4 @@ start
 2025-01-13 09:38:20 - update commit flow
 2025-01-13 11:39:26 - small logging changes
 2025-01-13 13:25:32 - refactor data handling
+2025-01-14 11:29:48 - tweak helper code
