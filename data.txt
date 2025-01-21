@@ -27,3 +27,4 @@ start
 2025-01-20 10:07:26 - fix local state
 2025-01-20 10:10:56 - tweak logging
 2025-01-20 12:29:54 - fix date handling
+2025-01-21 11:56:18 - fix file output
