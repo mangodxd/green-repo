@@ -30,3 +30,4 @@ start
 2025-01-21 11:56:18 - fix file output
 2025-01-21 18:25:09 - clean up script logic
 2025-01-21 20:54:47 - clean up logging
+2025-01-22 09:01:14 - polish date handling
