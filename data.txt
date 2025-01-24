@@ -216,3 +216,4 @@ start
 2025-01-22 13:34:50 - small date handling changes
 2025-01-23 11:18:40 - clean up helper code
 2025-01-24 09:21:13 - update local state
+2025-01-24 11:39:11 - polish date handling
