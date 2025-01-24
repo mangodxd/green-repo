@@ -36,3 +36,4 @@ start
 2025-01-23 17:20:31 - tweak local state
 2025-01-24 13:12:25 - tweak logging
 2025-01-24 14:24:09 - polish data handling
+2025-01-24 18:56:22 - fix date handling
