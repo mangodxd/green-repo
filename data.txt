@@ -267,3 +267,4 @@ start
 2025-01-24 14:47:36 - clean up local state
 2025-01-24 17:10:39 - small data handling changes
 2025-01-25 12:20:42 - tweak data handling
+2025-01-26 12:36:24 - clean up data handling
