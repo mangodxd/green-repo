@@ -43,3 +43,4 @@ start
 2025-01-26 16:54:22 - tweak logging
 2025-01-27 18:18:39 - polish script logic
 2025-01-27 20:57:44 - fix data handling
+2025-01-28 17:17:21 - refactor local state
