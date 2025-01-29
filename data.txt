@@ -269,3 +269,4 @@ start
 2025-01-25 12:20:42 - tweak data handling
 2025-01-26 12:36:24 - clean up data handling
 2025-01-26 14:25:22 - small helper code changes
+2025-01-29 11:26:10 - tweak local state
