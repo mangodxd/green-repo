@@ -279,3 +279,4 @@ start
 2025-02-02 16:23:43 - clean up helper code
 2025-02-03 18:16:08 - small helper code changes
 2025-02-03 19:34:54 - polish script logic
+2025-02-04 18:40:36 - tweak data handling
