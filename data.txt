@@ -285,3 +285,4 @@ start
 2025-02-06 10:56:25 - small logging changes
 2025-02-06 14:51:16 - small file output changes
 2025-02-06 15:07:36 - refactor file output
+2025-02-06 20:46:20 - polish helper code
