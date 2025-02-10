@@ -60,3 +60,4 @@ start
 2025-02-05 17:36:47 - small date handling changes
 2025-02-06 17:39:00 - small logging changes
 2025-02-06 18:03:52 - small local state changes
+2025-02-10 11:08:19 - refactor date handling
