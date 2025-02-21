@@ -310,3 +310,4 @@ start
 2025-02-20 09:51:09 - small logging changes
 2025-02-20 11:55:59 - polish script logic
 2025-02-20 13:33:19 - refactor script logic
+2025-02-21 15:19:04 - refactor data handling
