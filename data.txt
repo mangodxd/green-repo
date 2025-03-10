@@ -339,3 +339,4 @@ start
 2025-03-07 15:06:26 - small logging changes
 2025-03-10 10:22:46 - clean up script logic
 2025-03-10 11:21:11 - polish helper code
+2025-03-10 11:49:44 - update helper code
