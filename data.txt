@@ -344,3 +344,4 @@ start
 2025-03-11 13:58:35 - update local state
 2025-03-11 17:36:46 - update script logic
 2025-03-11 17:44:22 - tweak logging
+2025-03-11 19:16:53 - clean up local state
