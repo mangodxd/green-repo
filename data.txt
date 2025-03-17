@@ -359,3 +359,4 @@ start
 2025-03-16 14:48:13 - update script logic
 2025-03-17 15:05:59 - clean up date handling
 2025-03-17 15:55:16 - tweak logging
+2025-03-17 18:21:02 - polish data handling
