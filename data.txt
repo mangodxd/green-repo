@@ -360,3 +360,4 @@ start
 2025-03-17 15:05:59 - clean up date handling
 2025-03-17 15:55:16 - tweak logging
 2025-03-17 18:21:02 - polish data handling
+2025-03-18 10:45:18 - small file output changes
