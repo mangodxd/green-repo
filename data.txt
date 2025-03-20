@@ -123,3 +123,4 @@ start
 2025-03-17 10:28:35 - clean up date handling
 2025-03-18 15:20:30 - polish local state
 2025-03-19 11:22:49 - tweak helper code
+2025-03-20 13:52:51 - fix data handling
