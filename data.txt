@@ -127,3 +127,4 @@ start
 2025-03-20 13:55:23 - small file output changes
 2025-03-20 16:08:43 - tweak file output
 2025-03-20 19:57:11 - polish commit flow
+2025-03-21 12:34:33 - clean up logging
