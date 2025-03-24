@@ -133,3 +133,4 @@ start
 2025-03-22 11:40:36 - tweak local state
 2025-03-22 16:15:04 - small commit flow changes
 2025-03-24 13:27:32 - clean up file output
+2025-03-24 14:59:37 - fix script logic
