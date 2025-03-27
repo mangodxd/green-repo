@@ -384,3 +384,4 @@ start
 2025-03-26 18:27:09 - update date handling
 2025-03-26 18:41:56 - fix date handling
 2025-03-27 14:35:44 - clean up helper code
+2025-03-27 20:46:52 - refactor script logic
