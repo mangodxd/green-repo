@@ -388,3 +388,4 @@ start
 2025-03-28 20:14:46 - tweak helper code
 2025-03-31 10:36:40 - fix helper code
 2025-03-31 12:46:12 - clean up date handling
+2025-04-01 09:00:25 - polish logging
