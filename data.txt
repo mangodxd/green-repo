@@ -393,3 +393,4 @@ start
 2025-04-01 15:41:22 - update data handling
 2025-04-02 09:01:26 - fix date handling
 2025-04-02 15:34:02 - fix local state
+2025-04-02 15:43:58 - tweak local state
