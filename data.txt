@@ -394,3 +394,4 @@ start
 2025-04-02 09:01:26 - fix date handling
 2025-04-02 15:34:02 - fix local state
 2025-04-02 15:43:58 - tweak local state
+2025-04-03 09:37:40 - polish local state
