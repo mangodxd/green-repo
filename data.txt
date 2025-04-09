@@ -155,3 +155,4 @@ start
 2025-04-07 18:49:28 - tweak commit flow
 2025-04-08 15:38:43 - small date handling changes
 2025-04-08 16:35:42 - polish date handling
+2025-04-09 14:11:33 - polish helper code
