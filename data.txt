@@ -157,3 +157,4 @@ start
 2025-04-08 16:35:42 - polish date handling
 2025-04-09 14:11:33 - polish helper code
 2025-04-09 15:37:56 - update helper code
+2025-04-09 15:54:08 - fix script logic
