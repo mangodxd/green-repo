@@ -410,3 +410,4 @@ start
 2025-04-09 13:09:17 - update script logic
 2025-04-10 10:36:35 - tweak local state
 2025-04-10 15:05:53 - tweak logging
+2025-04-10 18:21:21 - fix logging
