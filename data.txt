@@ -426,3 +426,4 @@ start
 2025-04-18 15:51:49 - clean up logging
 2025-04-18 16:00:09 - polish date handling
 2025-04-19 13:29:29 - polish logging
+2025-04-20 13:33:19 - fix local state
