@@ -430,3 +430,4 @@ start
 2025-04-20 16:25:10 - polish logging
 2025-04-22 16:40:00 - refactor date handling
 2025-04-22 16:42:12 - clean up logging
+2025-04-22 18:13:20 - clean up helper code
