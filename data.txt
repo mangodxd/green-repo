@@ -437,3 +437,4 @@ start
 2025-04-24 16:03:07 - small data handling changes
 2025-04-25 18:33:09 - polish file output
 2025-04-28 10:16:51 - polish local state
+2025-04-28 13:55:16 - tweak script logic
