@@ -2178,3 +2178,4 @@ start
 2025-05-05 11:17:32 - tweak logging
 2025-05-05 18:06:47 - small helper code changes
 2025-05-05 19:17:12 - clean up date handling
+2025-05-06 10:49:28 - clean up local state
