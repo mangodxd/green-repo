@@ -456,3 +456,4 @@ start
 2025-05-03 16:06:46 - small logging changes
 2025-05-04 11:34:11 - small date handling changes
 2025-05-06 16:43:38 - tweak local state
+2025-05-08 16:02:54 - fix logging
