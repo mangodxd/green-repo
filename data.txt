@@ -486,3 +486,4 @@ start
 2025-05-26 09:50:58 - update date handling
 2025-05-26 14:49:04 - refactor date handling
 2025-05-27 09:00:46 - small logging changes
+2025-05-27 16:03:31 - clean up file output
