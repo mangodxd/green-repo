@@ -488,3 +488,4 @@ start
 2025-05-27 09:00:46 - small logging changes
 2025-05-27 16:03:31 - clean up file output
 2025-05-28 11:16:21 - small data handling changes
+2025-05-28 16:24:37 - refactor date handling
