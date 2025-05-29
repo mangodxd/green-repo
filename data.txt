@@ -2221,3 +2221,4 @@ start
 2025-05-28 20:39:55 - polish logging
 2025-05-29 12:02:33 - clean up logging
 2025-05-29 14:46:28 - tweak date handling
+2025-05-29 16:05:48 - update helper code
