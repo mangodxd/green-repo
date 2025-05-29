@@ -2222,3 +2222,4 @@ start
 2025-05-29 12:02:33 - clean up logging
 2025-05-29 14:46:28 - tweak date handling
 2025-05-29 16:05:48 - update helper code
+2025-05-29 19:10:05 - small date handling changes
