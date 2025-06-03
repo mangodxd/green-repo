@@ -2227,3 +2227,4 @@ start
 2025-06-01 11:32:51 - small data handling changes
 2025-06-02 10:42:00 - fix helper code
 2025-06-02 11:49:19 - small commit flow changes
+2025-06-03 17:07:30 - tweak helper code
