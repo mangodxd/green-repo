@@ -2233,3 +2233,4 @@ start
 2025-06-05 15:24:05 - fix file output
 2025-06-05 16:11:27 - small logging changes
 2025-06-05 19:50:09 - clean up file output
+2025-06-06 13:32:17 - update helper code
