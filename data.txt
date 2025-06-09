@@ -514,3 +514,4 @@ start
 2025-06-08 12:57:41 - tweak local state
 2025-06-08 15:05:33 - fix local state
 2025-06-09 12:02:09 - fix local state
+2025-06-09 14:27:19 - clean up date handling
