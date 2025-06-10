@@ -2240,3 +2240,4 @@ start
 2025-06-09 12:36:07 - refactor date handling
 2025-06-09 13:49:54 - polish local state
 2025-06-09 20:43:53 - update local state
+2025-06-10 11:39:05 - clean up script logic
