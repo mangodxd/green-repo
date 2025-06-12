@@ -2245,3 +2245,4 @@ start
 2025-06-10 16:44:19 - fix file output
 2025-06-11 15:31:08 - update date handling
 2025-06-12 10:27:27 - refactor script logic
+2025-06-12 18:47:45 - update helper code
