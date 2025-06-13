@@ -517,3 +517,4 @@ start
 2025-06-09 14:27:19 - clean up date handling
 2025-06-11 12:20:41 - fix local state
 2025-06-11 19:17:11 - small date handling changes
+2025-06-13 15:21:04 - polish helper code
