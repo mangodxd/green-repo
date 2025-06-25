@@ -2272,3 +2272,4 @@ start
 2025-06-24 19:39:46 - clean up local state
 2025-06-25 09:49:29 - small local state changes
 2025-06-25 14:03:51 - fix commit flow
+2025-06-25 14:07:27 - clean up date handling
