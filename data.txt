@@ -2287,3 +2287,4 @@ start
 2025-06-30 13:01:15 - clean up file output
 2025-06-30 16:12:15 - small script logic changes
 2025-06-30 16:19:45 - tweak logging
+2025-06-30 19:36:56 - small helper code changes
