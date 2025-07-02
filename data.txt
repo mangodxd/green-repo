@@ -2290,3 +2290,4 @@ start
 2025-06-30 19:36:56 - small helper code changes
 2025-07-01 09:36:04 - small commit flow changes
 2025-07-01 10:55:25 - tweak date handling
+2025-07-02 19:06:08 - polish helper code
