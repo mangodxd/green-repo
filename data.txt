@@ -2292,3 +2292,4 @@ start
 2025-07-01 10:55:25 - tweak date handling
 2025-07-02 19:06:08 - polish helper code
 2025-07-02 19:41:33 - polish helper code
+2025-07-04 13:06:32 - update logging
