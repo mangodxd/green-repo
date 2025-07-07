@@ -2300,3 +2300,4 @@ start
 2025-07-06 15:47:13 - tweak data handling
 2025-07-06 17:48:03 - fix script logic
 2025-07-07 15:04:20 - polish date handling
+2025-07-07 18:55:24 - small file output changes
