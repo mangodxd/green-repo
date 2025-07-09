@@ -563,3 +563,4 @@ start
 2025-07-08 16:05:43 - update commit flow
 2025-07-09 11:39:21 - update file output
 2025-07-09 11:48:14 - polish date handling
+2025-07-09 17:22:16 - refactor local state
