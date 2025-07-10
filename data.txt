@@ -2307,3 +2307,4 @@ start
 2025-07-08 19:37:13 - update date handling
 2025-07-10 10:23:59 - fix logging
 2025-07-10 15:50:00 - small commit flow changes
+2025-07-10 18:21:07 - tweak logging
