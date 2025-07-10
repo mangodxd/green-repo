@@ -564,3 +564,4 @@ start
 2025-07-09 11:39:21 - update file output
 2025-07-09 11:48:14 - polish date handling
 2025-07-09 17:22:16 - refactor local state
+2025-07-10 20:30:36 - tweak helper code
