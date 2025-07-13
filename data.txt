@@ -2310,3 +2310,4 @@ start
 2025-07-10 18:21:07 - tweak logging
 2025-07-10 19:46:33 - update commit flow
 2025-07-11 10:20:05 - clean up script logic
+2025-07-13 11:32:48 - polish helper code
