@@ -2317,3 +2317,4 @@ start
 2025-07-14 17:44:29 - update commit flow
 2025-07-15 09:25:39 - clean up local state
 2025-07-15 14:26:44 - small script logic changes
+2025-07-15 18:52:27 - tweak logging
