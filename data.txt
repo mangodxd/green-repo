@@ -576,3 +576,4 @@ start
 2025-07-17 13:07:43 - small commit flow changes
 2025-07-17 15:51:38 - fix logging
 2025-07-17 19:44:10 - small commit flow changes
+2025-07-18 20:54:38 - clean up date handling
