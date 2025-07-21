@@ -581,3 +581,4 @@ start
 2025-07-20 15:18:49 - refactor date handling
 2025-07-21 13:11:58 - tweak data handling
 2025-07-21 14:42:38 - fix data handling
+2025-07-21 16:07:22 - tweak logging
