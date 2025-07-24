@@ -590,3 +590,4 @@ start
 2025-07-23 20:32:54 - small helper code changes
 2025-07-24 13:42:47 - fix logging
 2025-07-24 17:12:34 - tweak local state
+2025-07-24 20:21:31 - refactor logging
