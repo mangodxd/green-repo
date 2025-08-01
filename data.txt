@@ -2353,3 +2353,4 @@ start
 2025-07-31 15:23:11 - tweak script logic
 2025-08-01 10:59:32 - polish local state
 2025-08-01 15:47:30 - fix script logic
+2025-08-01 19:12:26 - fix data handling
