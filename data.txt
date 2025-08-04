@@ -2355,3 +2355,4 @@ start
 2025-08-01 15:47:30 - fix script logic
 2025-08-01 19:12:26 - fix data handling
 2025-08-04 09:41:37 - tweak date handling
+2025-08-04 13:23:24 - clean up logging
