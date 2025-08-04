@@ -2356,3 +2356,4 @@ start
 2025-08-01 19:12:26 - fix data handling
 2025-08-04 09:41:37 - tweak date handling
 2025-08-04 13:23:24 - clean up logging
+2025-08-04 16:07:53 - fix logging
