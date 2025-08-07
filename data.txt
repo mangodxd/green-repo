@@ -618,3 +618,4 @@ start
 2025-08-06 14:42:52 - tweak logging
 2025-08-06 18:18:34 - fix commit flow
 2025-08-07 09:42:19 - clean up date handling
+2025-08-07 10:04:24 - tweak date handling
