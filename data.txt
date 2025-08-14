@@ -633,3 +633,4 @@ start
 2025-08-13 12:58:11 - update commit flow
 2025-08-13 13:26:10 - clean up commit flow
 2025-08-13 14:53:21 - small date handling changes
+2025-08-14 11:24:05 - clean up helper code
