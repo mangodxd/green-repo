@@ -2379,3 +2379,4 @@ start
 2025-08-15 14:25:41 - polish data handling
 2025-08-15 20:31:07 - small date handling changes
 2025-08-16 13:26:16 - tweak local state
+2025-08-17 14:33:15 - refactor local state
