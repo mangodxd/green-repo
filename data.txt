@@ -641,3 +641,4 @@ start
 2025-08-16 14:12:45 - tweak helper code
 2025-08-17 13:05:00 - small local state changes
 2025-08-17 17:50:22 - tweak logging
+2025-08-18 14:57:04 - polish logging
