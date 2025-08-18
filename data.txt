@@ -2383,3 +2383,4 @@ start
 2025-08-18 13:04:56 - clean up date handling
 2025-08-18 13:40:42 - small script logic changes
 2025-08-18 18:00:34 - fix data handling
+2025-08-18 20:50:24 - fix local state
