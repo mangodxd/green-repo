@@ -2392,3 +2392,4 @@ start
 2025-08-22 20:34:24 - fix logging
 2025-08-25 11:08:36 - polish helper code
 2025-08-25 12:56:27 - tweak local state
+2025-08-25 17:57:19 - fix date handling
