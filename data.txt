@@ -2397,3 +2397,4 @@ start
 2025-08-26 10:30:34 - fix commit flow
 2025-08-26 13:07:53 - refactor file output
 2025-08-26 16:04:53 - polish logging
+2025-08-27 14:48:34 - tweak date handling
