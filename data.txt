@@ -2400,3 +2400,4 @@ start
 2025-08-27 14:48:34 - tweak date handling
 2025-08-27 15:34:46 - clean up file output
 2025-08-29 10:11:30 - refactor logging
+2025-08-30 11:58:02 - tweak helper code
