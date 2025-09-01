@@ -664,3 +664,4 @@ start
 2025-08-31 11:13:35 - update script logic
 2025-08-31 13:43:53 - small script logic changes
 2025-09-01 13:41:24 - clean up file output
+2025-09-01 14:28:32 - update date handling
