@@ -2412,3 +2412,4 @@ start
 2025-09-04 09:26:40 - fix local state
 2025-09-04 11:21:32 - polish date handling
 2025-09-05 13:43:22 - refactor helper code
+2025-09-05 14:59:45 - fix logging
