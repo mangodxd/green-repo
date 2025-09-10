@@ -2420,3 +2420,4 @@ start
 2025-09-09 14:21:48 - update date handling
 2025-09-09 15:50:04 - small local state changes
 2025-09-10 09:11:00 - clean up logging
+2025-09-10 10:56:11 - clean up helper code
