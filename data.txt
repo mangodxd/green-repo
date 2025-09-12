@@ -2426,3 +2426,4 @@ start
 2025-09-11 14:57:13 - small helper code changes
 2025-09-11 15:54:20 - small script logic changes
 2025-09-11 18:32:22 - update helper code
+2025-09-12 15:13:35 - clean up data handling
