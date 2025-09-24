@@ -709,3 +709,4 @@ start
 2025-09-20 12:21:35 - update date handling
 2025-09-21 16:05:22 - update local state
 2025-09-24 09:27:27 - fix script logic
+2025-09-24 12:55:57 - clean up script logic
