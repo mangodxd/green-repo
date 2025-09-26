@@ -716,3 +716,4 @@ start
 2025-09-25 19:11:55 - clean up helper code
 2025-09-26 09:25:07 - clean up commit flow
 2025-09-26 13:25:42 - refactor date handling
+2025-09-26 20:20:15 - fix script logic
