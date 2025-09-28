@@ -2456,3 +2456,4 @@ start
 2025-09-26 12:56:25 - update date handling
 2025-09-26 19:10:37 - small date handling changes
 2025-09-28 13:17:35 - polish file output
+2025-09-28 13:23:53 - small helper code changes
