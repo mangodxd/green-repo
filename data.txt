@@ -718,3 +718,4 @@ start
 2025-09-26 13:25:42 - refactor date handling
 2025-09-26 20:20:15 - fix script logic
 2025-09-27 11:01:46 - tweak logging
+2025-09-29 11:12:20 - clean up data handling
