@@ -2459,3 +2459,4 @@ start
 2025-09-28 13:23:53 - small helper code changes
 2025-09-29 14:05:24 - fix data handling
 2025-09-30 12:41:58 - tweak local state
+2025-09-30 13:20:40 - polish data handling
