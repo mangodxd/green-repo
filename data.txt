@@ -727,3 +727,4 @@ start
 2025-10-03 15:31:53 - small commit flow changes
 2025-10-03 20:06:42 - fix script logic
 2025-10-04 13:59:18 - refactor local state
+2025-10-05 17:11:34 - refactor date handling
