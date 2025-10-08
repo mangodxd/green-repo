@@ -2472,3 +2472,4 @@ start
 2025-10-02 19:49:30 - refactor commit flow
 2025-10-03 20:52:39 - small date handling changes
 2025-10-07 16:39:05 - tweak date handling
+2025-10-08 10:33:50 - fix helper code
