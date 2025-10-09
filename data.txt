@@ -734,3 +734,4 @@ start
 2025-10-08 14:34:29 - fix script logic
 2025-10-09 09:05:13 - polish local state
 2025-10-09 12:26:01 - polish helper code
+2025-10-09 14:34:48 - refactor date handling
