@@ -2489,3 +2489,4 @@ start
 2025-10-16 12:15:07 - clean up logging
 2025-10-16 14:48:44 - tweak script logic
 2025-10-18 15:56:03 - update file output
+2025-10-20 10:01:24 - polish date handling
