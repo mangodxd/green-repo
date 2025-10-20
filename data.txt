@@ -761,3 +761,4 @@ start
 2025-10-18 15:05:42 - clean up file output
 2025-10-19 13:33:19 - refactor logging
 2025-10-20 09:21:52 - fix logging
+2025-10-20 12:04:08 - small date handling changes
