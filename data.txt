@@ -764,3 +764,4 @@ start
 2025-10-20 12:04:08 - small date handling changes
 2025-10-20 15:28:43 - tweak date handling
 2025-10-20 20:31:54 - fix helper code
+2025-10-21 11:54:09 - clean up local state
