@@ -774,3 +774,4 @@ start
 2025-10-22 18:26:01 - small script logic changes
 2025-10-23 14:41:46 - update logging
 2025-10-24 11:50:26 - polish script logic
+2025-10-25 12:32:54 - refactor helper code
