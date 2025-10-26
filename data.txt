@@ -2499,3 +2499,4 @@ start
 2025-10-23 18:57:30 - small date handling changes
 2025-10-25 16:28:32 - tweak helper code
 2025-10-25 17:25:36 - refactor script logic
+2025-10-26 13:26:25 - fix file output
