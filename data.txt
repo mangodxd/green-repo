@@ -776,3 +776,4 @@ start
 2025-10-24 11:50:26 - polish script logic
 2025-10-25 12:32:54 - refactor helper code
 2025-10-27 11:44:10 - polish file output
+2025-10-28 11:06:36 - fix date handling
