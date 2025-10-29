@@ -780,3 +780,4 @@ start
 2025-10-28 15:16:15 - tweak date handling
 2025-10-28 16:03:01 - polish file output
 2025-10-29 14:41:24 - fix logging
+2025-10-29 16:13:52 - update data handling
