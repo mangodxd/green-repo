@@ -2508,3 +2508,4 @@ start
 2025-10-30 16:02:16 - clean up data handling
 2025-10-30 17:18:03 - small date handling changes
 2025-10-31 16:14:33 - polish local state
+2025-11-02 11:46:03 - tweak script logic
