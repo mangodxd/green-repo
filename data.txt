@@ -2516,3 +2516,4 @@ start
 2025-11-05 19:51:53 - small helper code changes
 2025-11-06 10:04:52 - tweak file output
 2025-11-06 11:58:23 - refactor helper code
+2025-11-06 13:20:37 - clean up date handling
