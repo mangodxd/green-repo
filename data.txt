@@ -795,3 +795,4 @@ start
 2025-11-09 14:26:11 - polish script logic
 2025-11-10 15:47:46 - refactor helper code
 2025-11-10 16:04:32 - update helper code
+2025-11-10 18:26:16 - clean up date handling
