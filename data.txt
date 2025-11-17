@@ -2538,3 +2538,4 @@ start
 2025-11-14 17:59:50 - tweak helper code
 2025-11-15 13:48:17 - update script logic
 2025-11-17 10:12:41 - clean up local state
+2025-11-17 11:11:21 - update date handling
