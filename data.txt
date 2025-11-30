@@ -827,3 +827,4 @@ start
 2025-11-28 09:30:46 - polish data handling
 2025-11-28 09:34:56 - clean up date handling
 2025-11-28 10:23:36 - fix helper code
+2025-11-30 11:29:31 - clean up local state
