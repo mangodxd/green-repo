@@ -2565,3 +2565,4 @@ start
 2025-11-28 17:09:56 - small helper code changes
 2025-11-28 18:06:35 - tweak logging
 2025-12-01 10:37:09 - refactor logging
+2025-12-01 11:49:46 - update date handling
