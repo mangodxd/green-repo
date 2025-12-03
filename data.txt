@@ -2571,3 +2571,4 @@ start
 2025-12-02 16:41:29 - small commit flow changes
 2025-12-02 18:11:30 - polish data handling
 2025-12-02 18:39:19 - tweak logging
+2025-12-03 16:01:29 - refactor helper code
