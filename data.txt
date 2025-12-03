@@ -835,3 +835,4 @@ start
 2025-12-03 12:27:09 - update helper code
 2025-12-03 15:48:01 - refactor commit flow
 2025-12-03 17:06:10 - clean up script logic
+2025-12-03 20:18:51 - tweak logging
