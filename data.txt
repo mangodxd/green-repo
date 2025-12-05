@@ -840,3 +840,4 @@ start
 2025-12-04 12:39:12 - polish local state
 2025-12-04 14:27:19 - polish file output
 2025-12-04 15:49:36 - update local state
+2025-12-05 18:58:16 - fix helper code
