@@ -2580,3 +2580,4 @@ start
 2025-12-05 17:31:25 - fix local state
 2025-12-05 18:15:02 - clean up file output
 2025-12-06 17:52:52 - tweak script logic
+2025-12-07 14:15:01 - clean up date handling
