@@ -861,3 +861,4 @@ start
 2025-12-18 13:37:47 - polish logging
 2025-12-18 13:51:49 - small logging changes
 2025-12-18 16:35:15 - fix logging
+2025-12-19 17:58:46 - small helper code changes
