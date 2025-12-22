@@ -2601,3 +2601,4 @@ start
 2025-12-21 16:45:55 - polish file output
 2025-12-22 10:53:30 - update file output
 2025-12-22 16:15:38 - update date handling
+2025-12-22 20:16:01 - tweak helper code
