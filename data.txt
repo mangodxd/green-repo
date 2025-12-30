@@ -874,3 +874,4 @@ start
 2025-12-29 09:42:39 - small commit flow changes
 2025-12-29 11:27:32 - polish local state
 2025-12-29 15:46:03 - small local state changes
+2025-12-30 14:01:31 - refactor script logic
