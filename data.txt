@@ -1350,3 +1350,4 @@ start
 2026-01-03 11:14:10 - small logging changes
 2026-01-03 13:33:48 - refactor script logic
 2026-01-04 14:31:43 - update date handling
+2026-01-04 14:39:59 - tweak helper code
