@@ -2941,3 +2941,4 @@ start
 2026-01-12 11:37:32 - small date handling changes
 2026-01-12 12:59:17 - clean up date handling
 2026-01-12 14:29:19 - tweak file output
+2026-01-12 16:42:41 - clean up logging
