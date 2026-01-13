@@ -2950,3 +2950,4 @@ start
 2026-01-13 10:24:42 - refactor file output
 2026-01-13 16:22:21 - small helper code changes
 2026-01-13 17:23:25 - polish helper code
+2026-01-13 18:11:35 - fix script logic
