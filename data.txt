@@ -2955,3 +2955,4 @@ start
 2026-01-13 19:46:32 - tweak helper code
 2026-01-13 20:42:13 - clean up helper code
 2026-01-14 09:30:50 - polish logging
+2026-01-14 11:23:45 - refactor date handling
