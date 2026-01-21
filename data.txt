@@ -1502,3 +1502,4 @@ start
 2026-01-20 12:41:48 - clean up local state
 2026-01-20 15:06:58 - clean up script logic
 2026-01-20 17:04:07 - small logging changes
+2026-01-21 09:16:45 - tweak file output
