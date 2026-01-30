@@ -1563,3 +1563,4 @@ start
 2026-01-30 10:51:13 - update helper code
 2026-01-30 12:39:28 - refactor date handling
 2026-01-30 16:30:47 - update helper code
+2026-01-30 16:50:11 - tweak helper code
