@@ -3079,3 +3079,4 @@ start
 2026-02-03 18:07:27 - tweak local state
 2026-02-03 19:07:33 - clean up logging
 2026-02-04 14:01:49 - polish date handling
+2026-02-04 14:49:16 - clean up helper code
