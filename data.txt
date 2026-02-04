@@ -3083,3 +3083,4 @@ start
 2026-02-04 15:50:20 - small date handling changes
 2026-02-04 16:15:03 - tweak date handling
 2026-02-04 18:38:41 - polish logging
+2026-02-04 20:24:24 - refactor local state
