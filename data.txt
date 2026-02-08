@@ -895,3 +895,4 @@ start
 2026-01-20 17:22:40 - update logging
 2026-02-04 16:24:50 - update file output
 2026-02-08 13:36:46 - clean up data handling
+2026-02-08 15:41:57 - tweak helper code
