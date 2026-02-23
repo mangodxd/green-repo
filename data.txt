@@ -1705,3 +1705,4 @@ start
 2026-02-22 17:03:53 - tweak logging
 2026-02-22 17:24:37 - polish script logic
 2026-02-23 09:33:28 - update date handling
+2026-02-23 13:00:01 - update helper code
