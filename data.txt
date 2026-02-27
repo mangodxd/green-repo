@@ -3213,3 +3213,4 @@ start
 2026-02-27 16:00:14 - tweak date handling
 2026-02-27 17:09:27 - clean up logging
 2026-02-27 17:20:23 - polish date handling
+2026-02-27 18:45:36 - clean up helper code
