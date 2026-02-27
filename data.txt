@@ -1731,3 +1731,4 @@ start
 2026-02-26 15:17:40 - update date handling
 2026-02-27 12:26:53 - small file output changes
 2026-02-27 14:32:20 - clean up script logic
+2026-02-27 15:16:30 - clean up helper code
