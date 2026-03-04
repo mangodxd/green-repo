@@ -1761,3 +1761,4 @@ start
 2026-03-03 19:18:58 - tweak file output
 2026-03-04 10:11:31 - clean up file output
 2026-03-04 10:45:07 - clean up logging
+2026-03-04 12:42:12 - update helper code
