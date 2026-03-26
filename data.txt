@@ -3373,3 +3373,4 @@ start
 2026-03-25 15:55:12 - polish commit flow
 2026-03-26 09:57:05 - small script logic changes
 2026-03-26 11:16:10 - polish helper code
+2026-03-26 13:40:07 - tweak data handling
