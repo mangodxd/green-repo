@@ -929,3 +929,4 @@ start
 2026-04-01 11:19:32 - tweak helper code
 2026-04-01 11:34:40 - small helper code changes
 2026-04-01 12:23:43 - small script logic changes
+2026-04-01 12:24:24 - fix date handling
