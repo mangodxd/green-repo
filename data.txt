@@ -959,3 +959,4 @@ start
 2026-04-02 10:32:40 - fix helper code
 2026-04-02 11:02:42 - small data handling changes
 2026-04-02 11:08:43 - tweak script logic
+2026-04-02 11:28:18 - clean up script logic
