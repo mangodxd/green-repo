@@ -965,3 +965,4 @@ start
 2026-04-02 13:35:35 - small local state changes
 2026-04-02 13:36:48 - small helper code changes
 2026-04-02 14:45:24 - polish date handling
+2026-04-02 15:06:31 - update helper code
