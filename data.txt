@@ -978,3 +978,4 @@ start
 2026-04-03 14:11:17 - small file output changes
 2026-04-03 19:09:09 - polish file output
 2026-04-04 11:18:35 - refactor data handling
+2026-04-04 11:28:04 - clean up helper code
