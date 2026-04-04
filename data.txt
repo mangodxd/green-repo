@@ -985,3 +985,4 @@ start
 2026-04-04 13:08:46 - polish data handling
 2026-04-04 14:15:16 - clean up date handling
 2026-04-04 14:15:28 - update data handling
+2026-04-04 14:54:14 - fix local state
