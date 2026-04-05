@@ -1059,3 +1059,4 @@ start
 2026-04-05 16:18:18 - tweak file output
 2026-04-05 16:21:41 - fix file output
 2026-04-05 16:25:27 - polish date handling
+2026-04-05 16:27:13 - refactor helper code
