@@ -1019,3 +1019,4 @@ start
 2026-04-05 13:02:30 - fix data handling
 2026-04-05 13:08:38 - update file output
 2026-04-05 13:11:55 - tweak helper code
+2026-04-05 13:17:12 - fix script logic
