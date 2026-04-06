@@ -1956,3 +1956,4 @@ start
 2026-04-05 13:26:28 - clean up date handling
 2026-04-05 14:13:03 - refactor script logic
 2026-04-05 16:10:40 - clean up local state
+2026-04-06 11:13:51 - tweak data handling
