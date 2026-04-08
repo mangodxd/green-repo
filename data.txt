@@ -2794,3 +2794,4 @@ start
 2026-04-07 20:42:18 - update helper code
 2026-04-08 10:49:26 - fix date handling
 2026-04-08 13:14:10 - polish date handling
+2026-04-08 17:12:59 - small date handling changes
