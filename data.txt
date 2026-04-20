@@ -2044,3 +2044,4 @@ start
 2026-04-19 17:58:04 - tweak local state
 2026-04-20 09:37:56 - update date handling
 2026-04-20 10:28:49 - fix date handling
+2026-04-20 14:02:45 - small logging changes
