@@ -2111,3 +2111,4 @@ start
 2026-04-30 12:47:58 - polish commit flow
 2026-04-30 14:41:34 - fix date handling
 2026-04-30 15:55:02 - tweak file output
+2026-04-30 16:04:09 - clean up data handling
