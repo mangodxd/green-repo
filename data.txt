@@ -2121,3 +2121,4 @@ start
 2026-05-01 13:43:10 - clean up helper code
 2026-05-01 15:15:36 - small file output changes
 2026-05-01 16:40:49 - tweak logging
+2026-05-01 18:35:09 - polish data handling
