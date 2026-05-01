@@ -3574,3 +3574,4 @@ start
 2026-04-30 19:14:14 - tweak logging
 2026-04-30 19:49:08 - fix file output
 2026-04-30 20:51:05 - tweak date handling
+2026-05-01 10:28:05 - small helper code changes
