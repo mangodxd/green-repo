@@ -1243,3 +1243,4 @@ start
 2026-05-03 14:24:59 - tweak script logic
 2026-05-03 14:27:59 - update file output
 2026-05-03 14:41:51 - fix data handling
+2026-05-03 14:55:19 - polish helper code
