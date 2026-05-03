@@ -1238,3 +1238,4 @@ start
 2026-05-02 17:57:58 - fix local state
 2026-05-03 11:20:35 - clean up commit flow
 2026-05-03 12:47:15 - polish helper code
+2026-05-03 13:59:11 - polish date handling
