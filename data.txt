@@ -3606,3 +3606,4 @@ start
 2026-05-05 18:46:44 - clean up date handling
 2026-05-05 19:40:43 - refactor date handling
 2026-05-05 19:52:23 - tweak data handling
+2026-05-06 10:09:41 - tweak helper code
