@@ -3609,3 +3609,4 @@ start
 2026-05-06 10:09:41 - tweak helper code
 2026-05-06 11:37:01 - update helper code
 2026-05-06 13:19:09 - refactor logging
+2026-05-06 13:32:55 - clean up date handling
