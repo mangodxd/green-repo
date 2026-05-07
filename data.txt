@@ -3615,3 +3615,4 @@ start
 2026-05-06 17:55:39 - tweak script logic
 2026-05-06 19:45:45 - update date handling
 2026-05-07 12:41:50 - clean up script logic
+2026-05-07 13:34:16 - polish local state
