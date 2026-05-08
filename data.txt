@@ -1258,3 +1258,4 @@ start
 2026-05-08 12:53:38 - tweak date handling
 2026-05-08 13:32:57 - tweak date handling
 2026-05-08 13:56:40 - polish logging
+2026-05-08 13:57:23 - fix local state
