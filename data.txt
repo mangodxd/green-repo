@@ -3622,3 +3622,4 @@ start
 2026-05-07 17:59:46 - update helper code
 2026-05-07 19:30:06 - update date handling
 2026-05-07 19:42:18 - small script logic changes
+2026-05-08 09:02:47 - clean up helper code
