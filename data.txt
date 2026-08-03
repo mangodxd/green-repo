@@ -1291,3 +1291,4 @@ start
 2026-07-28 09:28:04 - update script logic
 2026-07-28 15:46:41 - polish date handling
 2026-07-30 10:27:34 - polish helper code
+2026-08-03 16:24:26 - update helper code
