@@ -1326,3 +1326,4 @@ start
 2026-10-30 09:39:29 - clean up date handling
 2026-11-01 12:47:37 - tweak script logic
 2026-11-01 13:48:16 - clean up data handling
+2026-11-06 12:50:48 - fix data handling
